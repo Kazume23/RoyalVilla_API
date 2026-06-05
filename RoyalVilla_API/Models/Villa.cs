@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace RolayVilla_API.Models
+namespace RoyalVilla_API.Models
 {
     public class Villa
     {

@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using RolayVilla_API.Controllers.Data;
+using RoyalVilla_API.Controllers.Data;
 using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);

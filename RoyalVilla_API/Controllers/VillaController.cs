@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace RolayVilla_API.Controllers
+namespace RoyalVilla_API.Controllers
 {
     [Route("api/villas")]
     [ApiController]
-    public class VillaControler : ControllerBase
+    public class VillaController : ControllerBase
     {
         [HttpGet]
         public string GetVilllas()

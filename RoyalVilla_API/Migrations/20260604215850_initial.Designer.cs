@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using RolayVilla_API.Controllers.Data;
+using RoyalVilla_API.Controllers.Data;
 
 #nullable disable
 
-namespace RolayVilla_API.Migrations
+namespace RoyalVilla_API.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20260604215850_initial")]

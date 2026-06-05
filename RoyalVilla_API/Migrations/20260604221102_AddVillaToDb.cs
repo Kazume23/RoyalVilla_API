@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace RolayVilla_API.Migrations
+namespace RoyalVilla_API.Migrations
 {
     /// <inheritdoc />
     public partial class AddVillaToDb : Migration
